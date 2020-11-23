@@ -12,6 +12,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
+gunicorn==20.0.4
 importlib-metadata 
 ipykernel
 ipython 
@@ -45,8 +46,8 @@ prompt-toolkit
 pyparsing==2.4.7
 pyrsistent
 python-dateutil==2.8.1
-
-
+pytz==2020.4
+python-dateutil==2.8.1
 pytz==2019.3
 scikit-learn==0.22
 scipy==1.4.1
